@@ -8,8 +8,6 @@ This is a fun little C++ project using OpenCV to:
 ✅ Detect faces in real-time  
 ✅ Display a smooth FPS counter in the corner
 
-Perfect for anyone learning OpenCV, C++, or just curious how to hook into your webcam and do cool stuff.
-
 📂 Project Structure
 ---------------------
 .
@@ -53,15 +51,13 @@ Perfect for anyone learning OpenCV, C++, or just curious how to hook into your w
 🔧 To Do
 ---------
 - [ ] Add face recognition (with names!)
-- [ ] Record video to file
-- [ ] Use DNN for better detection accuracy
 
 🙌 Credit
 ----------
 Uses OpenCV and their built-in Haar classifiers  
-Project by [your name or handle]
+
 
 ---
 
 Press ESC to exit the video window.
-Enjoy hacking and happy coding! 🎉
+🎉🎉🎉🎉
